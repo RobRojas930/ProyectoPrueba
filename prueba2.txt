@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Datos cambiados
+=======
+<<<<<<< HEAD
+Datos cambiados
+=======
+dasdf
+>>>>>>> develop
+>>>>>>> 1ae494b163cc5479328e103df841e84514847c58
